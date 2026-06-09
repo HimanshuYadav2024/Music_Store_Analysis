@@ -50,5 +50,5 @@ The database contains 11 tables:
 — All SQL queries 
 — Database schema
 
-## 🙋‍♂️ Author
-Himasnhu Kumar
+## Schema
+<img width="1280" height="720" alt="Schema" src="https://github.com/user-attachments/assets/2e3a3a4e-8a2f-430e-832e-33165521cceb" />
