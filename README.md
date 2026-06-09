@@ -47,7 +47,7 @@ The database contains 11 tables:
 - Example: Rock was the most purchased genre
 
 ## 📁 Files Included
-— All SQL queries
+— All SQL queries 
 — Database schema
 
 ## 🙋‍♂️ Author
